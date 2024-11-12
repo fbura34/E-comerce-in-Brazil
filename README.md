@@ -29,7 +29,7 @@ This data warehouse project consists of three main parts:
 
 
 
-### DIMENSIONAL SCHEMA – DIAGRAM
+### Dimensional Schema – Diagram
 
 ![333](https://github.com/user-attachments/assets/5ec4b481-8feb-4a71-a9ff-62d4ea9b5f5d)
 
