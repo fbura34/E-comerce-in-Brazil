@@ -12,11 +12,11 @@ This data warehouse project consists of three main parts:
 - **Goals**: Identify high-performing products, seasonal sales patterns, and customer purchasing trends to inform business strategies.
 - **Key Analyses**: Sales performance by product category, customer demographics, payment methods, and regional sales distribution.
 
-### Dimensional Model, Tabular Model, and ETL Process (Report 2)
+### Dimensional Model, ETL Process andTabular Model (Report 2)
 
 - **Dimensional Modeling**: A star schema was designed to support OLAP queries, consisting of fact and dimension tables for orders, products, customers, payments, and dates.
-- **Tabular Model with SSAS**: Implemented in SQL Server Analysis Services (SSAS), this model enhances data analysis with efficient processing and aggregation.
 - **ETL Implementation**: Data extraction, transformation, and loading were implemented using SQL Server Integration Services (SSIS) to process large volumes of e-commerce data, including data quality checks, incremental loads, and ensuring consistency across data sources.
+- **Tabular Model with SSAS**: Implemented in SQL Server Analysis Services (SSAS), this model enhances data analysis with efficient processing and aggregation.
 
 ### Data Visualization and Dashboard (Report 3)
 
