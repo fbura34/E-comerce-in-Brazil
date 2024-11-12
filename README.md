@@ -26,6 +26,22 @@ This data warehouse project consists of three main parts:
   - Popular payment methods and order distribution.
 - **User Focus**: Custom insights tailored for Sales Analysts and Marketing Managers to support targeted decision-making.
 
+
+
+
+## DIMENSIONAL SCHEMA – DIAGRAM
+
+
+
+
+
+
+
+
+
+
+
+
 ## Getting Started
 
 ### Prerequisites
