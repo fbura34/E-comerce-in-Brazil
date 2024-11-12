@@ -1,4 +1,4 @@
-# E-comerce-in-Brazil
+# E-comerce in Brazil
 The aim of this project is to create a multidimensional data model that will be analyzed through a tabular model in PowerBI. The domain of this project is e-commerce in Brazil, focusing on the retail segment of an online sales platform. 
 The dataset covers various aspects of the platform's operations, including customer orders, product listings, 
 payments, and shipping price. It provides a detailed view of transactions between businesses and consumers, 
