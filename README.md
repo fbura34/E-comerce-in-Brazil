@@ -30,10 +30,13 @@ This data warehouse project consists of three main parts:
 
 
 ### Dimensional Schema – Diagram
-
 ![333](https://github.com/user-attachments/assets/5ec4b481-8feb-4a71-a9ff-62d4ea9b5f5d)
+### ETL Map
+![4444](https://github.com/user-attachments/assets/435c1f0c-28ab-4db0-9a69-c76f6048cbcb)
+![55555](https://github.com/user-attachments/assets/d12b3706-8e71-4939-bd69-18129e320d30)
 
-
+### Final Cube Structure
+![66666](https://github.com/user-attachments/assets/8f7e2a19-0fc9-4ced-b1dd-e89eaefa5e7e)
 
 
 
