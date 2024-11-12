@@ -34,10 +34,12 @@ This data warehouse project consists of three main parts:
 ### ETL Map
 ![4444](https://github.com/user-attachments/assets/435c1f0c-28ab-4db0-9a69-c76f6048cbcb)
 ![55555](https://github.com/user-attachments/assets/d12b3706-8e71-4939-bd69-18129e320d30)
-
 ### Final Cube Structure
 ![66666](https://github.com/user-attachments/assets/8f7e2a19-0fc9-4ced-b1dd-e89eaefa5e7e)
-
+### Dashboard 1
+![11](https://github.com/user-attachments/assets/e236f1f3-aaba-43d8-8e3f-9c283420746b)
+### Dashboard 2 
+![2](https://github.com/user-attachments/assets/167c53a6-7bd0-40a1-a308-4223921625d0)
 
 
 
